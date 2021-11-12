@@ -1,0 +1,87 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.layout1{
+    
+    background-color:seagreen;
+    display: flex;
+    justify-content: center;
+}
+
+.layout2{
+    display:flex;
+     
+}
+.layout2A{
+    
+    flex:30%;
+    background-color:aqua;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+
+#aero{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#queen{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.layout2B{
+    flex:70%;
+    background-color:orange;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+}
+
+.layout2B h2{
+    margin-bottom: 0px;
+}
+
+.layout2B h3{
+    margin-top: 0px;
+}
+
+.layout2B h4{  
+  margin-top: 0px;
+}
+
+
+#nfl_ancora ul li {
+    display: inline-block;
+    padding-right: 20px;
+    text-align: center;
+    color: black;
+}
+
+.layout3{
+  
+    display: flex;
+    background-color:brown;
+}
+
+
+.rock_ancora ul li {
+    display: inline-block;
+    padding-right: 20px;
+    text-align: center;
+    color: black;
+    
+}
+
+.layout3{
+    color: azure;
+    justify-content: right;
+    padding-right: 10px;
+}
+
